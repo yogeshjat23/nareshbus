@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nareshbus/static/css/main.eebf714c.css",
+    "main.js": "/nareshbus/static/js/main.9b0f35ff.js",
+    "static/js/213.1f713d6f.chunk.js": "/nareshbus/static/js/213.1f713d6f.chunk.js",
+    "static/js/667.7368219f.chunk.js": "/nareshbus/static/js/667.7368219f.chunk.js",
+    "static/js/488.b51d605a.chunk.js": "/nareshbus/static/js/488.b51d605a.chunk.js",
+    "static/media/remixicon.svg?t=1734404658139": "/nareshbus/static/media/remixicon.df9902a6df13645438e1.svg",
+    "static/media/remixicon.eot?t=1734404658139": "/nareshbus/static/media/remixicon.29066d810a74e994be27.eot",
+    "static/media/remixicon.ttf?t=1734404658139": "/nareshbus/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
+    "static/media/remixicon.woff?t=1734404658139": "/nareshbus/static/media/remixicon.ce82bb240fef24f93f95.woff",
+    "static/media/remixicon.woff2?t=1734404658139": "/nareshbus/static/media/remixicon.bb211d855a1864aa5b67.woff2",
+    "index.html": "/nareshbus/index.html",
+    "main.eebf714c.css.map": "/nareshbus/static/css/main.eebf714c.css.map",
+    "main.9b0f35ff.js.map": "/nareshbus/static/js/main.9b0f35ff.js.map",
+    "213.1f713d6f.chunk.js.map": "/nareshbus/static/js/213.1f713d6f.chunk.js.map",
+    "667.7368219f.chunk.js.map": "/nareshbus/static/js/667.7368219f.chunk.js.map",
+    "488.b51d605a.chunk.js.map": "/nareshbus/static/js/488.b51d605a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebf714c.css",
+    "static/js/main.9b0f35ff.js"
+  ]
+}
