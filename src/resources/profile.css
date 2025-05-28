@@ -1,0 +1,94 @@
+/* Profile Container */
+.profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   /* background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Profile Card */
+  .profile-card {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+    padding: 30px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;  /* Important for absolute positioning inside */
+    padding-bottom: 60px; /* Add padding at the bottom to prevent overlap */
+  }
+  
+  /* Profile Image */
+  .profile-image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-pic {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border: 3px solid #6a11cb;
+  }
+  
+  /* Profile Details */
+  .profile-details {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .profile-details p {
+    margin: 8px 0;
+    color: #555555;
+    font-size: 1em;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .profile-details p strong {
+    width: 120px;  /* Fixed width for labels */
+  }
+  
+  /* Logout Button - Positioned at the bottom right */
+  .logout-btn {
+    background: #f44336;
+    color: white;
+    position: absolute;
+    bottom: 20px;   /* Distance from the bottom */
+    right: 20px;    /* Distance from the right */
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .logout-btn:hover {
+    background: #e53935;
+    transform: scale(1.05);
+  }
+  
+  /* General Styling */
+  hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #eeeeee;
+  }
+  
+  @media (max-width: 768px) {
+    .profile-card {
+      padding: 20px;
+      margin: 0 10px;
+    }
+  }
+  
