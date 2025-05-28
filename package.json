@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://github.com/yogeshjat23/nareshbus", 
+  "homepage": "https://yogeshjat23.github.io/nareshbus", 
 
   "private": true,
   "dependencies": {
